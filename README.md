@@ -25,7 +25,7 @@ This project is a simple Android application designed to function as a basic cal
 1. **Clone the repository**:
    To get started, clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/Calculator.git
+   git clone https://github.com/katarzynamad11/Calculator.git
 2. Open in Android Studio: Open Android Studio and select "Open an existing Android Studio project," then navigate to the folder where you cloned the repository.
 3. Run the app:
 - If you're using an emulator, select one from the list in Android Studio.
