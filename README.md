@@ -43,5 +43,5 @@ dependencies {
     implementation 'com.google.android.material:material:1.5.0'  // For Material Buttons and UI
     implementation 'org.mozilla:rhino:1.7.13'  // For JavaScript evaluation in the app
 }
-
+```
 ![Zarys](./calculator.png)
